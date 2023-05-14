@@ -1,0 +1,63 @@
+@media screen and (max-width: 768px){
+
+.container{
+    height: 65vh;
+    display: block;
+    background-image: none;
+}
+.container__caixa{
+    margin: 1rem 1rem;
+    text-align: center;
+}
+
+.container__titulo{
+    font-size: 1.5rem;
+}
+
+.container__botao{
+    display: inline-block;
+    text-align: center;
+    width: 70%;
+}
+
+.botao__secundario{
+    width: 50%;
+}
+
+.imagemCombo{
+    width: 50vw;
+}
+
+.secundario{
+    margin: 0;
+    text-align: center;
+}
+
+.descricao__titulo{
+    font-size: 1.5rem;
+}
+
+.imagemPlataforma{
+    width: 50vw;
+}
+
+.dispositivos__titulo{
+    font-size: 1.5rem;
+}
+
+.dispositivos__lista{
+    display: block;
+}
+
+.iconesDispositivos{
+    width: 50vw;
+}
+
+.footer__lista{
+    display: block;
+}
+
+.footer__logo{
+    width: 20vw;
+}
+}
