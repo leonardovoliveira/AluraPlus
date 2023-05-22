@@ -32,7 +32,7 @@ body{
     background-image: url("/src/imgs/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
-    align-items: end;
+    align-items: center;
     text-align: center;
 }
 
